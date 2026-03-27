@@ -1,8 +1,6 @@
 # ⭐⭐ Give a star if you are helped by this repo 🙏⭐⭐
 # Happy Birthday
 
-<img width="1920" height="881" alt="preview" src="https://github.com/user-attachments/assets/264fa78c-3edb-48ca-9f4a-2816e92e3d72" />
-
 
 ## A Happy Birthday animation design in CSS3, HTML5.
 
